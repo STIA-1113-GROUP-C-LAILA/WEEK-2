@@ -1,0 +1,23 @@
+package exerciseOne;
+
+public class DailyLifeofLaila {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("I woke up at 6:30 a.m to do my prayer");
+		System.out.println("At 9.00 a.m, I took a bath to get ready for my classes");
+		System.out.println("I'm in a programming class from 10:30 a.m till 12:30 p.m");
+		System.out.println("I take a break for 30 minutes before attend to other classes");
+		System.out.println("At 1:30 p.m, I eat my lunch");
+		System.out.println("After my lunch, I will do my prayer");
+		System.out.println("I will attend my classes from 2:30 p.m until 5:30");
+		System.out.println("And I will take a break again");
+		System.out.println();
+		System.out.println("At 8.00p.m, I will start doing my programming work until 10.00p.m");
+		System.out.println("At 10:30p.m, I will get ready to sleep");
+		System.out.println("That is how I spent my one-day campus life.");
+		
+
+	}
+
+}
